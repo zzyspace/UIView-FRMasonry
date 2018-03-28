@@ -5,6 +5,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Masonry/Masonry.h>
 
 @interface UIView (FRMasonry)
 
